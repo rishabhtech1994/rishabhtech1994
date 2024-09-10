@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there this is RISHABH GUPTA👋
 
 <!--
 **rishabhtech1994/rishabhtech1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 💫 About Me: <br>
 I am currently working on building my profile in Android Frameworks<br>Daily solving problems and try to implement the same. <br>Challenging myself with some new stuffs everyday.<br>Learning new concepts in tech and also implementing it.
+💬 Ask me about Android Application and Framework and how to scale apps on a large platform.
 
 
 ## 🌐 Socials:
