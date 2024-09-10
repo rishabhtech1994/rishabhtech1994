@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...[ReadMe.md](https://github.com/user-attachments/files/16939793/ReadMe.md)# 
 -->
 
-💫 About Me:
+💫 About Me: <br>
 I am currently working on building my profile in Android Frameworks<br>Daily solving problems and try to implement the same. <br>Challenging myself with some new stuffs everyday.<br>Learning new concepts in tech and also implementing it.
 
 
@@ -32,6 +32,3 @@ I am currently working on building my profile in Android Frameworks<br>Daily sol
 ---
 [![](https://visitcount.itsvg.in/api?id=rishabhtech1994&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
--->
